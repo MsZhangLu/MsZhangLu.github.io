@@ -14,19 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lu's Blog
-email: lu.zhang.sc@gmail.com
+email: Lu.Zhang.SC@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just started this tech blog for sharing what I am learning, and what I learned from others.
-  Content will basically focuced on data science, statistics, machine learning, and deep learning.
+#  Just started this tech blog for sharing what I am learning, and what I learned from others.
+#  Content will basically focuced on data science, statistics, machine learning, and deep learning.
+#
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mszhanglu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Lu_Zhang_16
+#twitter_username: Lu_Zhang_16
 github_username:  MsZhangLu
-#linkedin_username:
-#youtube_username:
+linkedin_username: zhang-lu
+#youtube_username: channel/UC6F0DgydvUSiub4y2eg0Dng
 
 # Build settings
 markdown: kramdown
